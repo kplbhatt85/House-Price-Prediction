@@ -1,1 +1,1 @@
-# House-Price-Prediction
+# Project name: Advance Regression: House Price Prediction
