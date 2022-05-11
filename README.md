@@ -15,9 +15,18 @@
 - Answer: CSV file (train.csv) contains the complete details about various factor for purchase house. 
 
 ## Conclusions
-- 88888888
-- *********8**
-- ***********
+- Below variables are significant in predicting the price of a house:
+  •	LotFrontage	
+  •	LotArea
+  •	OverallQual
+  •	OverallCond
+  •	YearBuilt
+  •	BsmtFinSF1
+  •	TotalBsmtSF
+  •	GrLivArea
+ - Optimal Values of Lambda in Lasso and Ridge are as folow:
+    * Lasso: 20
+    * Ridge: 3
 
 ## Technologies Used
 - Python as programming language and variuos python libraries - Python version: 3.10
