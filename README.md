@@ -3,7 +3,7 @@
 # Table of Contents
 
 ## General Information
-- Model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features.
+- Create the model using Regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not.
 
 ## Project background
 - A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. For the same purpose, the company has collected a data set from the sale of houses in Australia.  
@@ -15,9 +15,9 @@
 - Answer: CSV file (train.csv) contains the complete details about various factor for purchase house. 
 
 ## Conclusions
-- Temperature could be a prime factor for making decision
-- We can see that demand of bikes is more in 2019 compare to 2018 which is good sign for business
-- Fall season also have a greater number of bookings then summer comes second.
+- 88888888
+- *********8**
+- ***********
 
 ## Technologies Used
 - Python as programming language and variuos python libraries - Python version: 3.10
