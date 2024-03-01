@@ -1,11 +1,11 @@
-# Project name: Advance Regression: House Price Predection
+# Advance Regression: House Price Predection
 
 # Table of Contents
 
 ## General Information
 - Create the model using Regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not.
 
-## Project background
+## Background
 - A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. For the same purpose, the company has collected a data set from the sale of houses in Australia.  
 
 - What is the business probem that your project is trying to solve?
@@ -40,4 +40,4 @@
 - The model will be a good way for management to understand the pricing dynamics of a new market. 
 
 ## Contact
-Created by Kapil Bhatt - feel free to contact me!
+Developed by Kapil Bhatt - feel free to contact me!
